@@ -6,13 +6,13 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
-using WebAdvert.Web.Models;
+using Advert.Web.Models;
 using AdvertApi.Models;
 using AutoMapper;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
-namespace WebAdvert.Web.ServiceClients
+namespace Advert.Web.ServiceClients
 {
     public class AdvertApiClient : IAdvertApiClient
     {

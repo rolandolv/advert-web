@@ -1,9 +1,9 @@
 using System.Threading.Tasks;
-using WebAdvert.Web.ServiceClients;
+using Advert.Web.ServiceClients;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebAdvert.Web.Controllers
+namespace Advert.Web.Controllers
 {
     [Route("api")]
     [ApiController]

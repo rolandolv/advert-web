@@ -1,7 +1,7 @@
 using System.IO;
 using System.Threading.Tasks;
 
-namespace WebAdvert.Web.Services
+namespace Advert.Web.Services
 {
     public interface IFileUploader
     {

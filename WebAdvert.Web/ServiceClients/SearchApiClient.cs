@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using WebAdvert.Web.Models;
+using Advert.Web.Models;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
 
-namespace WebAdvert.Web.ServiceClients
+namespace Advert.Web.ServiceClients
 {
     public class SearchApiClient : ISearchApiClient
     {

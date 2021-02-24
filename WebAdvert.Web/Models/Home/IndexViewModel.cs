@@ -1,4 +1,4 @@
-namespace WebAdvert.Web.Models.Home
+namespace Advert.Web.Models.Home
 {
     public class IndexViewModel
     {

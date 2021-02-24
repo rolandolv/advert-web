@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using WebAdvert.Web.Models;
+using Advert.Web.Models;
 
-namespace WebAdvert.Web.ServiceClients
+namespace Advert.Web.ServiceClients
 {
     public interface ISearchApiClient
     {

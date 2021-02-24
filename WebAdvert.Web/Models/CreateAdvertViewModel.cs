@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace WebAdvert.Web.Models
+namespace Advert.Web.Models
 {
     public class CreateAdvertViewModel
     {

@@ -6,9 +6,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using WebAdvert.Web.Models;
+using Advert.Web.Models;
 
-namespace WebAdvert.Web.Controllers
+namespace Advert.Web.Controllers
 {
     public class HomeController : Controller
     {

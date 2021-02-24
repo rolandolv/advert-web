@@ -4,14 +4,14 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
-using WebAdvert.Web.ServiceClients;
-using WebAdvert.Web.Services;
+using Advert.Web.ServiceClients;
+using Advert.Web.Services;
 using Polly;
 using Polly.Extensions.Http;
 using System.Net.Http;
 using System.Net;
 
-namespace WebAdvert.Web
+namespace Advert.Web
 {
     public class Startup
     {

@@ -1,16 +1,16 @@
 using System;
 using System.IO;
 using System.Threading.Tasks;
-using WebAdvert.Web.Models;
-using WebAdvert.Web.ServiceClients;
-using WebAdvert.Web.Services;
+using Advert.Web.Models;
+using Advert.Web.ServiceClients;
+using Advert.Web.Services;
 using AdvertApi.Models;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebAdvert.Web.Controllers
+namespace Advert.Web.Controllers
 {
     public class AdvertsUploadController : Controller
     {

@@ -1,9 +1,9 @@
-using WebAdvert.Web.Models;
-using WebAdvert.Web.Models.Home;
+using Advert.Web.Models;
+using Advert.Web.Models.Home;
 using AdvertApi.Models;
 using AutoMapper;
 
-namespace WebAdvert.Web.Services
+namespace Advert.Web.Services
 {
     public class AdvertApiProfile : Profile
     {

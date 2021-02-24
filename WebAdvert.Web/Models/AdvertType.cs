@@ -1,6 +1,6 @@
 using System;
 
-namespace WebAdvert.Web.Models
+namespace Advert.Web.Models
 {
     public class AdvertType
     {

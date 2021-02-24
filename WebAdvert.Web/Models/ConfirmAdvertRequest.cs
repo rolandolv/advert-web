@@ -1,6 +1,6 @@
 using AdvertApi.Models;
 
-namespace WebAdvert.Web.Models
+namespace Advert.Web.Models
 {
     public class ConfirmAdvertRequest
     {

@@ -6,7 +6,7 @@ using Amazon.S3;
 using Amazon.S3.Model;
 using Microsoft.Extensions.Configuration;
 
-namespace WebAdvert.Web.Services
+namespace Advert.Web.Services
 {
     public class S3FileUploader : IFileUploader
     {

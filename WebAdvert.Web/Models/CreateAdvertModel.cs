@@ -1,4 +1,4 @@
-namespace WebAdvert.Web.Models
+namespace Advert.Web.Models
 {
     public class CreateAdvertModel
     {
