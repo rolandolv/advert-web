@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using WebAdvert.Web.Models.Accounts;
 
-namespace AdvertApi.Management.Web.Controllers
+namespace WebAdvert.Web.Controllers
 {
     public class AccountsController : Controller
     {
